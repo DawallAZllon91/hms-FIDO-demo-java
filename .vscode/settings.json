@@ -1,0 +1,4 @@
+{
+    "gitlens.mode.statusBar.alignment": "left",
+    "gitlens.currentLine.format": "${author, }${agoOrDate}${' via 'pullRequest}${ • message|50?}${author}${agoOrDateShort}"
+}
