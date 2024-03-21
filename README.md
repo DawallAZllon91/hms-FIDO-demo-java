@@ -22,3 +22,4 @@ If you have questions about how to use HMS samples, try the following options:
 - [Huawei Developer Forum](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101187876626530001) HMS Core Module is great for general questions, or seeking recommendations and opinions.
 
 If you run into a bug in our samples, please submit an [issue](https://github.com/HMS-Core/hms-FIDO-demo-java/issues) to the Repository. Even better you can submit a [Pull Request](https://github.com/HMS-Core/hms-FIDO-demo-java/pulls) with a fix.
+https://fantastic-system-7v96jprj7rjwcprjr.github.dev/
