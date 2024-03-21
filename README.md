@@ -1,6 +1,5 @@
 # HMS FIDO Demo
-[![License](https://img.shields.io/badge/Docs-hmsguides-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001051069988)
-
+[![License](https://img.shields.io/badge/
 English | [中文](README_ZH.md)
 
 This project contains fido2 sample, bioauthn sample and bioauthn-androidx sample. 
